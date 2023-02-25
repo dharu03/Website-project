@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "orign"]
+	url = https://dharu03@bitbucket.org/projectnew03/website-project.git
+	fetch = +refs/heads/*:refs/remotes/orign/*
+[remote "orgin"]
+	url = https://dharu03@bitbucket.org/projectnew03/website-project.git
+	fetch = +refs/heads/*:refs/remotes/orgin/*
